@@ -1,6 +1,6 @@
 //<?php
 /**
- * Modifer for MODx
+ * Modifer
  *
  * @category 	plugin
  * @version 	0.1
